@@ -1,4 +1,26 @@
 body {
-    color: red;
     font-family: 'Smythe', cursive;
+}
+
+h3, p {
+    position: relative;
+    color: #fff;
+}
+
+h3 {
+    line-height: 24px;
+}
+
+p {
+    line-height: 14px;
+}
+
+.header-img {
+    position: absolute;
+    width: 600px;
+    height: 167px;
+    overflow: hidden;
+    background-image: url(images/book-banner.jpg);
+    background-size: contain;
+    padding: 20px 10px;
 }
