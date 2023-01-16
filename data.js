@@ -1,4 +1,4 @@
-const bookArray = [
+export const bookArray = [
     {
         title: "Sea of Tranquility",
         author: 'Emily St. John Mandel',

@@ -2,17 +2,17 @@ body {
     font-family: 'Smythe', cursive;
 }
 
-h3, p {
+h1, p {
     position: relative;
     color: #fff;
 }
 
-h3 {
-    line-height: 24px;
+h1 {
+    line-height: 14px;
 }
 
 p {
-    line-height: 14px;
+    line-height: 4px;
 }
 
 .header-img {
