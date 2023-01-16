@@ -7,7 +7,7 @@ function orderFeedHtml() {
         feedHtml += `
         <div class="order">
             <div class="order-inner">
-                <img src="${order.emoji}" class="order-pic">
+                <span class="order-pic">${order.emoji}</span>
                 <div>
                     <p class="order-title">${order.title}</p>
                     <p class="order-author">${order.author}</p>

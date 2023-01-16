@@ -4,7 +4,7 @@ body {
 
 h1, p {
     position: relative;
-    color: #fff;
+    /* color: #fff; */
 }
 
 h1 {
@@ -25,4 +25,9 @@ p {
     background-image: url(images/book-banner.jpg);
     background-size: contain;
     padding: 20px;
+}
+
+.order {
+    margin-top: 125px;
+    padding: 25px;
 }
