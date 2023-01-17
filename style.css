@@ -1,33 +1,9 @@
 body {
+    margin: 0;
     font-family: 'Smythe', cursive;
 }
 
-h1, p {
-    position: relative;
-    /* color: #fff; */
-}
-
-h1 {
-    line-height: 14px;
-}
-
-p {
-    line-height: 4px;
-}
-
 .header-img {
-    position: fixed;
+    background-image: url(./images/book-banner.jpg);
     width: 100%;
-    height: 15%;
-    top: 0;
-    left: 0;
-    overflow: hidden;
-    background-image: url(images/book-banner.jpg);
-    background-size: contain;
-    padding: 20px;
-}
-
-.order {
-    margin-top: 125px;
-    padding: 25px;
 }
